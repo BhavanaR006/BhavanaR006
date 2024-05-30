@@ -28,6 +28,7 @@ Hi, I’m Bhavana
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="Composer" src="https://img.shields.io/badge/Composer%20-%23885633.svg?&style=for-the-badge&logo=composer&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Autodesk Inventor" src="https://img.shields.io/badge/Autodesk%20Inventor%20-%23E37933.svg?&style=for-the-badge&logo=autodesk&logoColor=white"/>
 <img alt="Autodesk Fusion 360" src="https://img.shields.io/badge/Autodesk%20Fusion%20360%20-%23FF6600.svg?&style=for-the-badge&logo=autodesk&logoColor=white"/>
 
