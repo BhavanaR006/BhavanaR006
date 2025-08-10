@@ -7,7 +7,7 @@ You can reach me here :
    
 ## About Me 
 Hi, I’m Bhavana
-- 🔭 I am a second year student with majors in Artificial Intelligence at IIT Gandhinagar from India.
+- 🔭 I am a third year student with majors in Artificial Intelligence at IIT Gandhinagar from India.
 - 💞 I’m looking to collaborate on exciting projects on full stack development.
 - 👩‍💻 I find my technical interests in Problem Solving, Full-stack development and open source !. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
