@@ -8,8 +8,8 @@ You can reach me here :
 ## About Me 
 Hi, I’m Bhavana
 - 🔭 I am a final year student majoring in Artificial Intelligence at IIT Gandhinagar, India.
-- 🤖 Working on machine learning–based projects and building NLP pipelines.
-- 👩‍💻 Exploring computer vision applications and intelligent AI systems.
+- 🤖 Working on machine learning–based projects.
+- 👩‍💻 Exploring computer vision applications, NLP and intelligent AI systems.
 - 👍 I enjoy collaborating on projects, hackathons, and open-source contributions.
 
 ---
